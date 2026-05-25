@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="test-modules-sub/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="test-modules-sub2/ClassLibrary1/ClassLibrary1/ClassLibrary1.csproj" />
 </Solution>
