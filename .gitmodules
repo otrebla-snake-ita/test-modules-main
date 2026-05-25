@@ -1,0 +1,3 @@
+[submodule "MainModulesProj/test-modules-sub"]
+	path = MainModulesProj/test-modules-sub
+	url = https://github.com/otrebla-snake-ita/test-modules-sub.git
